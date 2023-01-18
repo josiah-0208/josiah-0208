@@ -1,21 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Come%20in%20:\)&fontSize=64)  
+
+
 <div align="center">
-📬 beth_shan@naver.com  
-🗂 [Josiah's Blog](https://josiah-0208.github.io/)
 
+📬 beth_shan@naver.com
+<br/>
+🗂 [josiah's blog](https://google.com, "go blog")
+  
+  
 </div>
-
-<!--
-**josiah-0208/josiah-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
