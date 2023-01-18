@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Come%20in%20:\)&fontSize=64)  
+<div align="center">
+🗂
+</div>
 
 <!--
 **josiah-0208/josiah-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
