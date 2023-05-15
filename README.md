@@ -5,7 +5,7 @@
 
 📬 beth_shan@naver.com
 <br/>
-🗂 [josiah's blog](https://josiah-0208.github.io/)
+🗂 [josiah's blog](https://josiah-0208.github.io/) -> [new blog](https://josiah0208.tistory.com/)
   
   
 </div>
